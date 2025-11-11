@@ -10974,7 +10974,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../corazon3.png");
+  background-image: url("corazon3.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11286,7 +11286,7 @@ header.masthead .masthead-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../map-image.png");
+  background-image: url("map-image.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -11346,7 +11346,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 
 .hero-section {
-  background-image: url('../corazon3.png'); /* Reemplaza con tu nombre de archivo */
+  background-image: url('corazon3.png'); /* Reemplaza con tu nombre de archivo */
   background-size: cover;
   background-position: center;
   height: 100vh;
